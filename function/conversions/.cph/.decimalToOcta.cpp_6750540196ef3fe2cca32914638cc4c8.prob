@@ -1,0 +1,1 @@
+{"name":"Local: decimalToOcta","url":"f:\\CSE\\learning\\CPP\\function\\conversions\\decimalToOcta.cpp","tests":[{"id":1662992934701,"input":"100","output":"144"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CSE\\learning\\CPP\\function\\conversions\\decimalToOcta.cpp","group":"local","local":true}
