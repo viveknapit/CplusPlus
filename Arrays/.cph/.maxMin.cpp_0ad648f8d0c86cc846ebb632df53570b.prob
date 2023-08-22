@@ -1,0 +1,1 @@
+{"name":"Local: maxMin","url":"f:\\CSE\\learning\\CPP\\Arrays\\maxMin.cpp","tests":[{"id":1663086375676,"input":"4\n55 44 21 36\n","output":"55\n21"},{"id":1663086749193,"input":"4\n56 25 654 759","output":"759\n25"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CSE\\learning\\CPP\\Arrays\\maxMin.cpp","group":"local","local":true}

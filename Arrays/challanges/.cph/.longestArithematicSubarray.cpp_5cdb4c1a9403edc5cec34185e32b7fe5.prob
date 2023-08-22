@@ -1,0 +1,1 @@
+{"name":"Local: longestArithematicSubarray","url":"f:\\CSE\\learning\\CPP\\Arrays\\challanges\\longestArithematicSubarray.cpp","tests":[{"id":1663643423992,"input":"7\n10 7 4 6 8 10 11","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CSE\\learning\\CPP\\Arrays\\challanges\\longestArithematicSubarray.cpp","group":"local","local":true}

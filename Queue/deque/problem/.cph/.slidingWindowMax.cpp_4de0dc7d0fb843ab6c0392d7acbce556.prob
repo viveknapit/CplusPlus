@@ -1,0 +1,1 @@
+{"name":"Local: slidingWindowMax","url":"f:\\CSE\\learning\\CPP\\Queue\\deque\\problem\\slidingWindowMax.cpp","tests":[{"id":1682176687962,"input":"6 2\n3 4 9 1 -4 10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CSE\\learning\\CPP\\Queue\\deque\\problem\\slidingWindowMax.cpp","group":"local","local":true}

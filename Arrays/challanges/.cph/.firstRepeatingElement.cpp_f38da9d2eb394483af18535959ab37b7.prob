@@ -1,0 +1,1 @@
+{"name":"Local: firstRepeatingElement","url":"f:\\CSE\\learning\\CPP\\Arrays\\challanges\\firstRepeatingElement.cpp","tests":[{"id":1663942720003,"input":"7\n1 5 3 4 3 5 6","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CSE\\learning\\CPP\\Arrays\\challanges\\firstRepeatingElement.cpp","group":"local","local":true}

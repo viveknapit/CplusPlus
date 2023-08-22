@@ -1,0 +1,1 @@
+{"name":"Local: tablet","url":"f:\\CSE\\learning\\CPP\\codechef\\tablet.cpp","tests":[{"id":1665201375458,"input":"4\n1 2 3 4 \n10 70 10 6 \n2 100 4 3\n4 3 2 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CSE\\learning\\CPP\\codechef\\tablet.cpp","group":"local","local":true}

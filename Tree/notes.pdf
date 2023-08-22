@@ -1,0 +1,30 @@
+                                Tree Data Structure
+
+A tree data Structure is a hierarchical Structure taht is used to represent and organze data in a way that is easy to navigate and search . It is a collection of nodes that are connected by edges and has a hierarchical relationship b/w the nodes.
+
+        Terminologies in Tree data Structure
+> Parent Node: the node which is a predecessor of a node is called the parent node of 
+ that node. 
+
+> Child Node: the node which is the immediate succesor of a node is called as child node of that node.
+
+> Root Node: the topmost node of a tree or a node which does not have any parent is called as root node.
+
+> Leaf Node or External Node: the nodes which do not have any child nodes are called leaf nodes.
+
+> Ancestor of a node: Any predecessor nodes on the path of the root to that node are called Ancestor of thata node.
+
+> Descendant: any succesor node on the path from the leaf node to that node 
+
+> Sibling: children of the same parent node are called as siblings.
+
+> Level of a node: the count of edges on the path from the root node to that node.
+
+> Internal node: a node with atleast one child is called internal node.
+
+> Neighbour of a node: Parent or child nodes of that node are called Neighbours of that node.
+
+> Subtree: any node of the tree along with its Descendant.
+
+Properties of Binary Tree
+1. maximum nodes at level L  = 2^L

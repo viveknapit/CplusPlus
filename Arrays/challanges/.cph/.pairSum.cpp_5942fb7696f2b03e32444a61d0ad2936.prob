@@ -1,0 +1,1 @@
+{"name":"Local: pairSum","url":"f:\\CSE\\learning\\CPP\\Arrays\\challanges\\pairSum.cpp","tests":[{"id":1664212159191,"input":"5 8\n1 2 3 4 5 6","output":""},{"id":1664212899100,"input":"3 111\n1 2 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CSE\\learning\\CPP\\Arrays\\challanges\\pairSum.cpp","group":"local","local":true}

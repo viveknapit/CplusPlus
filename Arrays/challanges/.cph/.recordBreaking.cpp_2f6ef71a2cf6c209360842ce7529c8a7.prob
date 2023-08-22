@@ -1,0 +1,1 @@
+{"name":"Local: recordBreaking","url":"f:\\CSE\\learning\\CPP\\Arrays\\challanges\\recordBreaking.cpp","tests":[{"id":1663645988403,"input":"8\n1 5 0 7 2 8 2 2","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CSE\\learning\\CPP\\Arrays\\challanges\\recordBreaking.cpp","group":"local","local":true}

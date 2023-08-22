@@ -1,0 +1,1 @@
+{"name":"Local: maxCircularSubarray","url":"f:\\CSE\\learning\\CPP\\Arrays\\challanges\\maxCircularSubarray.cpp","tests":[{"id":1664210593933,"input":"7\n4 -4 6 -6 10 -11 12","output":"22"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CSE\\learning\\CPP\\Arrays\\challanges\\maxCircularSubarray.cpp","group":"local","local":true}
